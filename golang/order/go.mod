@@ -1,4 +1,4 @@
-module github.com/k0ntra/microservices-proto/order
+module github.com/k0ntra/microservices-proto/golang/order
 
 go 1.23.1
 
